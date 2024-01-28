@@ -15,7 +15,7 @@ Install Openssl latest version before executing commands
     cd cert
 ```
 
-**Generate Private Key**
+**GENERATE PRIVATE KEY**
 
 ```
     openssl genrsa -out key.pem
