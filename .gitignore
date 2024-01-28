@@ -1,0 +1,6 @@
+node_modules
+
+## IGNORE KEY FILES 
+./cert/key.pem
+./cert/csr.pem
+./cert/cert.pem
